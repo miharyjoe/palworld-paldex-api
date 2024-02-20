@@ -1,3 +1,3 @@
-import * as ListPalsUseCase from "./list-pals.usecase";
+import * as ListPalsUseCase from "../../../useCases/pals/list/list-pals.usecase";
 
 export { ListPalsUseCase };
